@@ -1,0 +1,7 @@
+D:\Computer\Project Files\My developed projects\C#-Unity-GameDev-Specialization-Coursera\More-C-Sharp-Programming-and-Unity\ProgrammingAssignment4\ProgrammingAssignment4\bin\Debug\ProgrammingAssignment4.exe.config
+D:\Computer\Project Files\My developed projects\C#-Unity-GameDev-Specialization-Coursera\More-C-Sharp-Programming-and-Unity\ProgrammingAssignment4\ProgrammingAssignment4\bin\Debug\ProgrammingAssignment4.exe
+D:\Computer\Project Files\My developed projects\C#-Unity-GameDev-Specialization-Coursera\More-C-Sharp-Programming-and-Unity\ProgrammingAssignment4\ProgrammingAssignment4\bin\Debug\ProgrammingAssignment4.pdb
+D:\Computer\Project Files\My developed projects\C#-Unity-GameDev-Specialization-Coursera\More-C-Sharp-Programming-and-Unity\ProgrammingAssignment4\ProgrammingAssignment4\obj\Debug\ProgrammingAssignment4.csprojAssemblyReference.cache
+D:\Computer\Project Files\My developed projects\C#-Unity-GameDev-Specialization-Coursera\More-C-Sharp-Programming-and-Unity\ProgrammingAssignment4\ProgrammingAssignment4\obj\Debug\ProgrammingAssignment4.csproj.CoreCompileInputs.cache
+D:\Computer\Project Files\My developed projects\C#-Unity-GameDev-Specialization-Coursera\More-C-Sharp-Programming-and-Unity\ProgrammingAssignment4\ProgrammingAssignment4\obj\Debug\ProgrammingAssignment4.exe
+D:\Computer\Project Files\My developed projects\C#-Unity-GameDev-Specialization-Coursera\More-C-Sharp-Programming-and-Unity\ProgrammingAssignment4\ProgrammingAssignment4\obj\Debug\ProgrammingAssignment4.pdb
